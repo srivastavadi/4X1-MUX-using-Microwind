@@ -17,6 +17,7 @@ Perform functional simulation
 Analyze output waveforms
 
 Understand VLSI layout concepts and CMOS implementation
+
 Software Used
 
 Microwind
